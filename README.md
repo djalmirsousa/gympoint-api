@@ -11,10 +11,10 @@
 
 <p align="center">
   <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/PRs-welcome-purple.svg?style=flat-square" alt="PRs Welcome">
+    <img src="https://img.shields.io/badge/PRs-welcome-tomato.svg?style=flat-square" alt="PRs Welcome">
   </a>
   <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/license-MIT-purple.svg?style=flat-square" alt="License MIT">
+    <img src="https://img.shields.io/badge/license-MIT-tomato.svg?style=flat-square" alt="License MIT">
   </a>
 </p>
 
